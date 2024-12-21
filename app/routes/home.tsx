@@ -11,7 +11,7 @@ export default function Home() {
       <TabList />
       <div>
         <div className="flex gap-2 items-center">
-          <img src="/gold-token.png" alt="Gold Token Icon" className="size-8" />
+          <img src="/gold-token.png" alt="gold token icon" className="size-8" />
           <p>Gold Token</p>
         </div>
         <Input />
